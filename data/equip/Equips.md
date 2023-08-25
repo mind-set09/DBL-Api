@@ -39,3 +39,4 @@ Ultimate damage 2.5~7.5%(5%)(6.5%)
 # Slot 3	
 # 10~15% damage to Lineage of Evil(12.5%)(14%)
 # 10~15% defense against Lineage of Evil(12.5%)(14%)
+-----------------------------------------------------
