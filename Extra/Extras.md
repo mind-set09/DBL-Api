@@ -125,10 +125,6 @@ Inflicted Damage UP [param:60%, counts:30]
 -------------------------------------------------------
 # MAJIN VEGETA
 
-![image](https://github.com/mind-set09/DBL-Api/assets/141085830/50b6f22a-bae6-4890-bef7-194b3f28f965)
-
--------------------------------------------------------
-
 ![image](https://github.com/mind-set09/DBL-Api/assets/141085830/8cd657f0-ccef-4e5d-81f7-964f2da2509a)
 
 # SUPER VEGITO ( IT MAY LOOK THE SAME BUT IT WAS IN EXTRAS IN THE DBZ SPACE)
