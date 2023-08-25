@@ -69,6 +69,63 @@
       "BLAST ATK": "2.51K",
       "BLAST DEF": "1.66K"
     }
+  },
+{
+  "ULTRA Super Saiyan God SS Gogeta": {
+    "Stats": {
+      "POWER": "10.32K",
+      "HEALTH": "26.27K",
+      "STRIKE ATK": "2.73K",
+      "STRIKE DEF": "1.68K",
+      "BLAST ATK": "2.46K",
+      "BLAST DEF": "1.63K"
+    }
+  },
+{
+  "ULTRA Super Gogeta": {
+    "Stats": {
+      "POWER": "10.31K",
+      "HEALTH": "24.87K",
+      "STRIKE ATK": "2.72K",
+      "STRIKE DEF": "1.63K",
+      "BLAST ATK": "2.62K",
+      "BLAST DEF": "1.63K"
+    }
+  },
+  "ULTRA Vegeta": {
+    "Stats": {
+      "POWER": "9.99K",
+      "HEALTH": "24.1K",
+      "STRIKE ATK": "2.56K",
+      "STRIKE DEF": "1.63K",
+      "BLAST ATK": "2.58K",
+      "BLAST DEF": "1.57K"
+    }
+  },
+{
+  "ULTRA Super Saiyan Goku": {
+    "Stats": {
+      "POWER": "9.96K",
+      "HEALTH": "23.65K",
+      "STRIKE ATK": "2.63K",
+      "STRIKE DEF": "1.6K",
+      "BLAST ATK": "2.5K",
+      "BLAST DEF": "1.6K"
+    }
+  },
+{
+  "ULTRA Omega Shenron": {
+    "Stats": {
+      "POWER": "9.89K",
+      "HEALTH": "24K",
+      "STRIKE ATK": "2.45K",
+      "STRIKE DEF": "1.67K",
+      "BLAST ATK": "2.43K",
+      "BLAST DEF": "1.69K"
+    }
   }
 }
+
+
+
 
