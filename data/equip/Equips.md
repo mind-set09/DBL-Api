@@ -28,14 +28,14 @@ Ultimate damage 2.5~7.5%(5%)(6.5%)
 
 
 -------------------------------------------------------------------------------------------------------------
-Unique awakened equipment. Grants a slot effect to the equipped character if they have met certain conditions.
-Slot 1	
-Base Health 6~10%(8%)(9.2%)
-Base Strike Defense 6~10%(8%)(9.2%)
-Base Blast Defense 6~10%(8%)(9.2%)
-Slot 2	
-Base Strike Attack 10~25%(17.5%)(22%)
-Base Blast Attack 10~25%(17.5%)(22%)
-Slot 3	
-10~15% damage to Lineage of Evil(12.5%)(14%)
-10~15% defense against Lineage of Evil(12.5%)(14%)
+# Unique awakened equipment. Grants a slot effect to the equipped character if they have met certain conditions.
+# Slot 1	
+# Base Health 6~10%(8%)(9.2%)
+# Base Strike Defense 6~10%(8%)(9.2%)
+# Base Blast Defense 6~10%(8%)(9.2%)
+# Slot 2	
+# Base Strike Attack 10~25%(17.5%)(22%)
+# Base Blast Attack 10~25%(17.5%)(22%)
+# Slot 3	
+# 10~15% damage to Lineage of Evil(12.5%)(14%)
+# 10~15% defense against Lineage of Evil(12.5%)(14%)
