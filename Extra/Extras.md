@@ -4,7 +4,7 @@
 
 # THE BASE STATS ARE EITHER THE SAME OR SIMILIAR BCS IDEK
 
-# SHALLETSuper Saiyan God Shallet
+# SHALLET Super Saiyan God Shallet
 
 ![image](https://github.com/mind-set09/DBL-Api/assets/141085830/1fb6c7a1-a51e-443b-9e71-4ffb423a1914)
 
