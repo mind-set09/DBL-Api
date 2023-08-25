@@ -130,3 +130,15 @@ Inflicted Damage UP [param:60%, counts:30]
 # SUPER VEGITO ( IT MAY LOOK THE SAME BUT IT WAS IN EXTRAS IN THE DBZ SPACE)
 
 ![image](https://github.com/mind-set09/DBL-Api/assets/141085830/f037f1bb-3a89-476b-9163-b89f8a28cce0)
+
+# KINKANMAN
+![image](https://github.com/mind-set09/DBL-Api/assets/141085830/d7c53323-e81a-4141-8df3-830642eb8e8c)
+
+# GINNANMAN
+
+![image](https://github.com/mind-set09/DBL-Api/assets/141085830/e4bf1c65-ed43-4764-b7b0-9edc95c9f413)
+
+# Android #21: Transformed (Evil)
+
+![image](https://github.com/mind-set09/DBL-Api/assets/141085830/3e888383-7ce9-44a4-942e-1bedf2c35f03)
+--------------------------------------------------------------------------------------------------------------------------------------------
