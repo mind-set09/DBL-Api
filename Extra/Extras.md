@@ -119,3 +119,18 @@ Inflicted Damage UP [param:60%, counts:30]
  Restore Ki [param:50, counts:0]
  Nullify: Special Cover Change [param:-1, counts:10]
  -----------------------------------------------------
+
+# HERE ARE SOME EXTRA CHARACTER IMAGES
+
+-------------------------------------------------------
+# MAJIN VEGETA
+
+![image](https://github.com/mind-set09/DBL-Api/assets/141085830/50b6f22a-bae6-4890-bef7-194b3f28f965)
+
+-------------------------------------------------------
+
+![image](https://github.com/mind-set09/DBL-Api/assets/141085830/8cd657f0-ccef-4e5d-81f7-964f2da2509a)
+
+# SUPER VEGITO ( IT MAY LOOK THE SAME BUT IT WAS IN EXTRAS IN THE DBZ SPACE)
+
+![image](https://github.com/mind-set09/DBL-Api/assets/141085830/f037f1bb-3a89-476b-9163-b89f8a28cce0)
