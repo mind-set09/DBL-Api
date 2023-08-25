@@ -38,5 +38,25 @@
       "BLAST ATK": "2.65K",
       "BLAST DEF": "1.7K"
     }
+  },
+  "ULTRA Hit": {
+    "Stats": {
+      "POWER": "10.36K",
+      "HEALTH": "26.54K",
+      "STRIKE ATK": "2.73K",
+      "STRIKE DEF": "1.66K",
+      "BLAST ATK": "2.44K",
+      "BLAST DEF": "1.7K"
+    }
+  },
+  "ULTRA Super Saiyan God SS Kaioken Goku": {
+    "Stats": {
+      "POWER": "10.32K",
+      "HEALTH": "24.89K",
+      "STRIKE ATK": "2.64K",
+      "STRIKE DEF": "1.66K",
+      "BLAST ATK": "2.68K",
+      "BLAST DEF": "1.62K"
+    }
   }
 }
