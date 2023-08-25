@@ -1,4 +1,5 @@
-![image](https://github.com/mind-set09/DBL-Api/assets/141085830/e172a3cd-5588-43b9-b824-276bb25d7965)
+![image](https://github.com/mind-set09/DBL-Api/assets/141085830/4ae977ea-ce0c-4824-9bbd-9a606fa104ed)
+
 ----------------------------------------------
 Clear Let's go, Legends! - Chapter 7 1 time(s)
 
