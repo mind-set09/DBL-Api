@@ -44,6 +44,7 @@ From the Original Series: "Raditz Attacks" Overhaul!
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Event
 "Eliminate the Earthlings" Now On!
+
 ![image](https://github.com/mind-set09/DBL-Api/assets/141085830/8eec2c82-75dd-492f-a9b6-2a3243dc8aa8)
 
 11/18/2020 01:00 AM (EDT) ~ 12/31/2029 10:00 AM (EDT)
