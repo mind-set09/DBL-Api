@@ -41,7 +41,6 @@
 
 --------------------------------------------------------------------------
 ![image](https://github.com/mind-set09/DBL-Api/assets/141085830/f75b5a35-dd13-4250-a49e-c43ed427eae1)
-![image](https://github.com/mind-set09/DBL-Api/assets/141085830/665b9641-c307-4408-ab39-3d205451ab18)
 
 --------------------------------------------------------------------------
 ![image](https://github.com/mind-set09/DBL-Api/assets/141085830/90807ae2-3a36-4775-8aa0-6b7219eb7cfe)
