@@ -183,6 +183,40 @@
       "BLAST ATK": "2.42K",
       "BLAST DEF": "1.63K"
     }
+  },
+{
+  "SPARKING LEGENDS LIMITED 1st Form Frieza": {
+    "Stats": {
+      "POWER": "9.24K",
+      "HEALTH": "23.01K",
+      "STRIKE ATK": "2.16K",
+      "STRIKE DEF": "1.54K",
+      "BLAST ATK": "2.4K",
+      "BLAST DEF": "1.54K"
+    }
+  },
+{
+  "SPARKING LEGENDS LIMITED Final Form Cooler": {
+    "Stats": {
+      "POWER": "10.12K",
+      "HEALTH": "24.37K",
+      "STRIKE ATK": "2.73K",
+      "STRIKE DEF": "1.65K",
+      "BLAST ATK": "2.46K",
+      "BLAST DEF": "1.6K"
+    }
+  },
+{
+  "SPARKING LEGENDS LIMITED Super Saiyan 3 Goku": {
+    "Stats": {
+      "POWER": "10.03K",
+      "HEALTH": "24.26K",
+      "STRIKE ATK": "2.66K",
+      "STRIKE DEF": "1.62K",
+      "BLAST ATK": "2.49K",
+      "BLAST DEF": "1.58K"
+    }
   }
 }
+
 
