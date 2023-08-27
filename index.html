@@ -1,1 +1,4 @@
+<html> <head> <title>DB Legends API</title> <style> /* Styles */ </style> <script> // JavaScript to scan image folder and generate sections const imgFolder = 'images'; let characterSections = ''; fetch(imgFolder) .then(response => response.json()) .then(data => { data.forEach(img => { let charName = img.replace('.png', ''); characterSections += ` <div class="character-section"> <img src="${imgFolder}/${img}"> <p>${charName}</p> </div> `; }); document.getElementById('characters').innerHTML = characterSections; }); </script> </head> <body> <h1>DB Legends API</h1> <p>Welcome to the DB Legends API...</p> <div id="characters"></div>
+<button>Get Started</button>
 
+</body> </html>
