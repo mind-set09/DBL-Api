@@ -1,4 +1,43 @@
-<html> <head> <title>DB Legends API</title> <style> /* Styles */ </style> <script> // JavaScript to scan image folder and generate sections const imgFolder = 'images'; let characterSections = ''; fetch(imgFolder) .then(response => response.json()) .then(data => { data.forEach(img => { let charName = img.replace('.png', ''); characterSections += ` <div class="character-section"> <img src="${imgFolder}/${img}"> <p>${charName}</p> </div> `; }); document.getElementById('characters').innerHTML = characterSections; }); </script> </head> <body> <h1>DB Legends API</h1> <p>Welcome to the DB Legends API...</p> <div id="characters"></div>
-<button>Get Started</button>
+<html>
+<head>
+<title>DB Legends Characters</title>
+</head>
 
-</body> </html>
+<body>
+
+<h1>DB Legends Characters</h1> 
+
+<div id="characters"></div>
+
+<script>
+
+// Query selectors for relevant elements 
+const charactersEl = document.querySelector('#characters');
+const charaImgs = document.querySelectorAll('.chara.list a.icon img');
+
+let characterHTML = '';
+
+// Loop through character image elements
+charaImgs.forEach(img => {
+
+  // Get image source and alt text
+  let imgSrc = img.getAttribute('src');
+  let imgAlt = img.parentElement.querySelector('.ot.over').textContent;
+
+  // Add image to characterHTML
+  characterHTML += `
+    <div>
+      <img src="${imgSrc}" alt="${imgAlt}">
+      <p>${imgAlt}</p>
+    </div>
+  `;
+
+});
+
+// Insert character HTML
+charactersEl.innerHTML = characterHTML;
+
+</script>
+
+</body>
+</html>
